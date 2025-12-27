@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Isaac 
+# Hi there! 👋 I'm [Your Name] 
 
 ## Backend & Systems Engineer | DevOps Enthusiast 🚀
 
@@ -57,18 +57,9 @@ Feel free to check out my repositories and contribute to the open-source project
 
 ## 📫 Contact Me
 
-- **Email:** [isaackamel12345@gmail.com](isaackamel12345@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+- **Email:** [isaackamel12345@gmail.com](mailto:isaackamel12345@gmail.com)
 
----
 
-## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
 
 **Happy coding!** 🚀
